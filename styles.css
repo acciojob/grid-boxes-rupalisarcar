@@ -21,14 +21,11 @@
 	grid-column-end:3;
 }
 #box4{
-	grid-column-start:3;
-	grid-column-end:5;
+	grid-column:span 2/auto;
 }
 #box5{
-	grid-column-start:2;
-	grid-column-end:4;
+	grid-column:span 2/auto;
 }
 #box10{
-	grid-column-start:2;
-	grid-column-end:5;
+	grid-column:span 3/auto;
 }
