@@ -2,8 +2,8 @@
 #grid{
 	width:90vw;
 	display:grid;
-	grid-template-columns:5;
-	grid-template-rows:2;
+	/* grid-template-columns:5; */
+	grid-template-rows:repeat(5,124px);
 }
 .box{
 	border:2px solid white;
