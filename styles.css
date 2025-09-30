@@ -11,8 +11,7 @@
 	color:white;
 }
 #box1{
-	grid-column-start:1;
-	grid-column-end:5;
+	grid-column:span 4/auto;
 }
 #box2{
 	grid-row-start:2;
