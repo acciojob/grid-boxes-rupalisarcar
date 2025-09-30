@@ -4,7 +4,7 @@
 	height:100%;
 	display:grid;
 	grid-template-columns:repeat(4,5fr);
-	grid-template-rows:repeat(5,5fr);
+	grid-template-rows:repeat(5,124px);
 }
 .box{
 	border:2px solid white;
